@@ -1,5 +1,6 @@
 
-# Proyecto que me hara millonario como elon musk
+# Proyecto que me hara millonario como jeff bezos 
+
 Usa la IA para generar cantitos de canchas que se adapta a todas las circunstancias
 
 
